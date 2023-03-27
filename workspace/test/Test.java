@@ -6,6 +6,7 @@ public class Test {
 		int a= 5;
 		int b = 3;
 		int c =13;
+		int d = 9;
 		
 		int t1,t2,t3;
 		
